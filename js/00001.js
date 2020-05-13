@@ -19,6 +19,6 @@ const double = x => {
   return x * 2;
 };
 
-// アロー関数 （returnだけの場合は1行で記述可）
+// アロー関数 （1行の場合は {} も省略可）
 // prettier-ignore
 const double = x => x * 2;
